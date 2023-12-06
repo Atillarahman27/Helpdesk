@@ -94,4 +94,14 @@ Aplikasi Pengaduan Customer adalah sebuah aplikasi web sederhana yang digunakan 
 - Pastikan web server Anda mendukung PHP dan MySQL.
 - Direkomendasikan untuk menggunakan browser yang mendukung teknologi web terbaru.
 
+## User
+
+### Admin
+-Username Admin : admin
+-Password Admin : admin
+
+### Petugas
+-Username Petugas : petugas
+-Password Petugas : petugas
+
 ### Selamat menggunakan Aplikasi Pengaduan Customer! Jika ada pertanyaan atau isu, silakan laporkan ke [alamat email atau forum dukungan].
